@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>ANN</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.ann.app</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>ann</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>ANN cần quyền sử dụng APPLE MUSCIC</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>ANN cần quyền sử dụng CALENDARS</string>
+	<key>NSCameraUsageDescription</key>
+	<string>ANN cần quyền sử dụng CAMERA để quét mã sản phẩm, giúp việc tìm kiếm sản phẩm dể dàng hơn</string>
+	<key>NSContactsUsageDescription</key>
+	<string>ANN cần quyền sử dụng CONTACT</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>ANN cần quyền sử dụng Microphone</string>
+	<key>NSMotionUsageDescription</key>
+	<string>ANN cần quyền sử dụng MOTION</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>ANN cần quyền sử dụng PHOTO để lưu hình ảnh</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>ANN cần quyền sử dụng PHOTO để lưu hình ảnh</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>ANN cần quyền sử dụng RECOGNITION</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<string>YES</string>
+</dict>
+</plist>
