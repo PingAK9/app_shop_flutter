@@ -1,0 +1,4 @@
+enum ContactType {
+  facebookMessenger,
+  zalo
+}

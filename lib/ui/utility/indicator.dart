@@ -1,0 +1,34 @@
+import 'dart:io';
+
+import 'package:shop_flutter/src/themes/ann_color.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+class Indicator extends StatelessWidget {
+
+  Indicator({this.radius = 15});
+  final double radius;
+
+  @override
+  Widget build(BuildContext context) {
+    if (Platform.isIOS && false) {
+      return Center(
+        child: CupertinoActivityIndicator(
+          radius: radius,
+        ),
+      );
+    } else {
+      return Center(
+        child: SizedBox(
+          width: radius * 2,
+          height: radius * 2,
+          child: CircularProgressIndicator(
+            backgroundColor: ANNColor.white,
+            strokeWidth: 2,
+            valueColor: AlwaysStoppedAnimation(Theme.of(context).primaryColor),
+          ),
+        ),
+      );
+    }
+  }
+}

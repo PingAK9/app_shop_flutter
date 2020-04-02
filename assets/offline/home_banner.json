@@ -1,0 +1,42 @@
+[
+  {
+    "action": "view_more",
+    "name": "Sỉ khẩu trang vải",
+    "actionValue": "post/si-khau-trang-vai",
+    "image": "https://khohangsiann.com/wp-content/uploads/xuong-si-khau-trang-1.jpg",
+    "message": null,
+    "createdDate": null
+  },
+  {
+    "action": "view_more",
+    "name": "Sỉ gel rửa tay khô 24h",
+    "actionValue": "post/si-gel-rua-tay-kho-24h",
+    "image": "https://khohangsiann.com/wp-content/uploads/si-gel-rua-tay-kho-24h.jpg",
+    "message": null,
+    "createdDate": null
+  },
+  {
+    "action": "category",
+    "name": "Mỹ phẩm",
+    "actionValue": "my-pham",
+    "image": "https://khohangsiann.com/wp-content/uploads/si-my-pham-lam-dep.png",
+    "message": null,
+    "createdDate": null
+  },
+  {
+    "action": "category",
+    "name": "Nước hoa",
+    "actionValue": "nuoc-hoa",
+    "image": "https://khohangsiann.com/wp-content/uploads/si-nuoc-hoa-gia-re-1.png",
+    "message": null,
+    "createdDate": null
+  },
+  {
+    "action": "view_more",
+    "name": "May áo thun đồng phục",
+    "actionValue": "post/may-ao-thun-dong-phuc",
+    "image": "https://khohangsiann.com/banner/xuong-may-ao-thun-dong-phuc-gia-re-ann.jpg",
+    "message": null,
+    "createdDate": null
+  }
+]

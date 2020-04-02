@@ -1,0 +1,1554 @@
+[
+  {
+    "banner": null,
+    "category": {
+      "name": "Đang hot...",
+      "icon": "",
+      "description": "",
+      "filter": {
+        "categorySlug": null,
+        "categorySlugList": null,
+        "productBadge": 0,
+        "productSKU": null,
+        "productSearch": null,
+        "productSort": 4,
+        "tagSlug": "hot",
+        "priceMin": 0,
+        "priceMax": 0
+      },
+      "children": null
+    }
+  },
+  {
+    "banner": {
+      "action": "view_more",
+      "name": "Sỉ khẩu trang vải",
+      "actionValue": "post/si-khau-trang-vai",
+      "image": "https://khohangsiann.com/wp-content/uploads/xuong-si-khau-trang-1.jpg",
+      "message": null,
+      "createdDate": "2020-03-22T14:41:23.1374866+07:00"
+    },
+    "category": {
+      "name": "Khẩu trang",
+      "icon": "/assets/images/categories/category-49.jpg",
+      "description": "",
+      "filter": {
+        "categorySlug": "khau-trang",
+        "categorySlugList": null,
+        "productBadge": 0,
+        "productSKU": null,
+        "productSearch": null,
+        "productSort": 4,
+        "tagSlug": null,
+        "priceMin": 0,
+        "priceMax": 0
+      },
+      "children": null
+    }
+  },
+  {
+    "banner": {
+      "action": "category",
+      "name": "Mỹ phẩm",
+      "actionValue": "my-pham",
+      "image": "https://khohangsiann.com/wp-content/uploads/si-my-pham-lam-dep.png",
+      "message": null,
+      "createdDate": "2020-03-22T14:41:23.1454781+07:00"
+    },
+    "category": {
+      "name": "Mỹ phẩm",
+      "icon": "/assets/images/categories/category-45.png",
+      "description": "",
+      "filter": {
+        "categorySlug": "my-pham",
+        "categorySlugList": null,
+        "productBadge": 0,
+        "productSKU": null,
+        "productSearch": null,
+        "productSort": 4,
+        "tagSlug": null,
+        "priceMin": 0,
+        "priceMax": 0
+      },
+      "children": null
+    }
+  },
+  {
+    "banner": null,
+    "category": {
+      "name": "Đồ bộ nữ",
+      "icon": "/assets/images/categories/category-18.jpg",
+      "description": null,
+      "filter": {
+        "categorySlug": "do-bo-nu",
+        "categorySlugList": null,
+        "productBadge": 0,
+        "productSKU": null,
+        "productSearch": null,
+        "productSort": 4,
+        "tagSlug": null,
+        "priceMin": 0,
+        "priceMax": 0
+      },
+      "children": [
+        {
+          "name": "Quần dài",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-quan-dai",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Quần lỡ",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-quan-lo",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Quần đùi",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-quan-dui",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Quần ống rộng",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-ong-rong",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Big size",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-big-size",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Jumpsuit",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-jumpsuit",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Pijama",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-pijama",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ thun cotton",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-thun-cotton",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ thun dẻo",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-thun-deo",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ lụa",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-lua",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ tole",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-tole",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ kate",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-kate",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ voan",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-voan",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ satin",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-satin",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ phi bóng",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-phi-bong",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ đũi",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-dui",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ xô",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-xo",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ gấm",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-gam",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ da cá",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "do-bo-da-ca",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ sỉ dưới 100k",
+          "icon": "/assets/images/categories/price-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "do-bo-nu",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 99000
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ sỉ từ 100k - 125k",
+          "icon": "/assets/images/categories/price-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "do-bo-nu",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 100000,
+            "priceMax": 125000
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ sỉ từ 125k - 150k",
+          "icon": "/assets/images/categories/price-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "do-bo-nu",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 126000,
+            "priceMax": 150000
+          },
+          "children": null
+        },
+        {
+          "name": "Bộ sỉ trên 150k",
+          "icon": "/assets/images/categories/price-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "do-bo-nu",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 151000,
+            "priceMax": 0
+          },
+          "children": null
+        }
+      ]
+    }
+  },
+  {
+    "banner": null,
+    "category": {
+      "name": "Váy đầm",
+      "icon": "/assets/images/categories/category-17.jpg",
+      "description": null,
+      "filter": {
+        "categorySlug": "vay-dam",
+        "categorySlugList": null,
+        "productBadge": 0,
+        "productSKU": null,
+        "productSearch": null,
+        "productSort": 4,
+        "tagSlug": null,
+        "priceMin": 0,
+        "priceMax": 0
+      },
+      "children": [
+        {
+          "name": "Đầm body",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-body",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm suông",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-suong",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm maxi",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-maxi",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm xòe",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-xoe",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm sơ mi",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-so-mi",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm vest",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-vest",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm trễ vai",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-tre-vai",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm caro",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-caro",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm thun",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-thun",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm voan",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-voan",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm tuyết mưa",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-tuyet-mua",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm lụa",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-lua",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm phi",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-phi",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm kate",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-kate",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm gấm",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-gam",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm satin",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-satin",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm nhung",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-nhung",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm kaki",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-kaki",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm bố",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-bo",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm đũi",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-dui",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm cotton lạnh",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-cotton-lanh",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm pc gen",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-pc-gen",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm cát nhật",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "dam-cat-nhat",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm sỉ dưới 120k",
+          "icon": "/assets/images/categories/price-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "vay-dam",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 119000
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm sỉ từ 120k - 150k",
+          "icon": "/assets/images/categories/price-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "vay-dam",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 120000,
+            "priceMax": 150000
+          },
+          "children": null
+        },
+        {
+          "name": "Đầm sỉ trên 150k",
+          "icon": "/assets/images/categories/price-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "vay-dam",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 151000,
+            "priceMax": 0
+          },
+          "children": null
+        }
+      ]
+    }
+  },
+  {
+    "banner": null,
+    "category": {
+      "name": "Áo thun nữ",
+      "icon": "/assets/images/categories/category-19.jpg",
+      "description": null,
+      "filter": {
+        "categorySlug": "ao-thun-nu",
+        "categorySlugList": null,
+        "productBadge": 0,
+        "productSKU": null,
+        "productSearch": null,
+        "productSort": 4,
+        "tagSlug": null,
+        "priceMin": 0,
+        "priceMax": 0
+      },
+      "children": [
+        {
+          "name": "Áo kiểu nữ",
+          "icon": "/assets/images/categories/category-47.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "ao-kieu-nu",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        }
+      ]
+    }
+  },
+  {
+    "banner": null,
+    "category": {
+      "name": "Áo kiểu nữ - Sơ mi nữ",
+      "icon": "",
+      "description": "",
+      "filter": {
+        "categorySlug": null,
+        "categorySlugList": [
+          "ao-kieu-nu",
+          "ao-so-mi-nu"
+        ],
+        "productBadge": 0,
+        "productSKU": null,
+        "productSearch": null,
+        "productSort": 4,
+        "tagSlug": null,
+        "priceMin": 0,
+        "priceMax": 0
+      },
+      "children": [
+        {
+          "name": "Áo kiểu nữ",
+          "icon": "/assets/images/categories/category-47.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "ao-kieu-nu",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Áo sơ mi nữ",
+          "icon": "/assets/images/categories/category-20.jpg",
+          "description": null,
+          "filter": {
+            "categorySlug": "ao-so-mi-nu",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        }
+      ]
+    }
+  },
+  {
+    "banner": null,
+    "category": {
+      "name": "Áo khoác nữ",
+      "icon": "/assets/images/categories/category-21.jpg",
+      "description": null,
+      "filter": {
+        "categorySlug": "ao-khoac-nu",
+        "categorySlugList": null,
+        "productBadge": 0,
+        "productSKU": null,
+        "productSearch": null,
+        "productSort": 4,
+        "tagSlug": null,
+        "priceMin": 0,
+        "priceMax": 0
+      },
+      "children": null
+    }
+  },
+  {
+    "banner": null,
+    "category": {
+      "name": "Quần nữ - Đồ lót nữ",
+      "icon": "",
+      "description": "",
+      "filter": {
+        "categorySlug": null,
+        "categorySlugList": [
+          "quan-nu",
+          "quan-jeans-nu",
+          "do-lot-nu"
+        ],
+        "productBadge": 0,
+        "productSKU": null,
+        "productSearch": null,
+        "productSort": 4,
+        "tagSlug": null,
+        "priceMin": 0,
+        "priceMax": 0
+      },
+      "children": [
+        {
+          "name": "Quần nữ",
+          "icon": "/assets/images/categories/category-23.jpg",
+          "description": null,
+          "filter": {
+            "categorySlug": "quan-nu",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Quần jeans nữ",
+          "icon": "/assets/images/categories/category-24.jpg",
+          "description": null,
+          "filter": {
+            "categorySlug": "quan-jeans-nu",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Đồ lót nữ",
+          "icon": "/assets/images/categories/category-41.jpg",
+          "description": "",
+          "filter": {
+            "categorySlug": "do-lot-nu",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        }
+      ]
+    }
+  },
+  {
+    "banner": {
+      "action": "view_more",
+      "name": "May áo thun đồng phục",
+      "actionValue": "post/may-ao-thun-dong-phuc",
+      "image": "https://khohangsiann.com/banner/xuong-may-ao-thun-dong-phuc-gia-re-ann.jpg",
+      "message": null,
+      "createdDate": "2020-03-22T14:41:23.205636+07:00"
+    },
+    "category": {
+      "name": "Áo thun nam",
+      "icon": "/assets/images/categories/category-3.jpg",
+      "description": null,
+      "filter": {
+        "categorySlug": "ao-thun-nam",
+        "categorySlugList": null,
+        "productBadge": 0,
+        "productSKU": null,
+        "productSearch": null,
+        "productSort": 4,
+        "tagSlug": null,
+        "priceMin": 0,
+        "priceMax": 0
+      },
+      "children": [
+        {
+          "name": "Áo thun cá sấu",
+          "icon": "/assets/images/categories/category-4.jpg",
+          "description": null,
+          "filter": {
+            "categorySlug": "ao-thun-ca-sau",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Áo thun thể thao",
+          "icon": "/assets/images/categories/category-6.jpg",
+          "description": null,
+          "filter": {
+            "categorySlug": "ao-thun-the-thao",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Áo thun sọc ngang",
+          "icon": "/assets/images/categories/category-5.jpg",
+          "description": null,
+          "filter": {
+            "categorySlug": "ao-thun-soc-ngang",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Áo thun có sẵn",
+          "icon": "/assets/images/categories/new-product.png",
+          "description": "Hàng có sẵn ở kho",
+          "filter": {
+            "categorySlug": "ao-thun-nam",
+            "categorySlugList": null,
+            "productBadge": 1,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Áo thun order",
+          "icon": "/assets/images/categories/order-product.png",
+          "description": "Không có sẵn ở kho",
+          "filter": {
+            "categorySlug": "ao-thun-nam",
+            "categorySlugList": null,
+            "productBadge": 3,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Áo thun cổ bẻ",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "ao-thun-nam-co-be",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Áo thun cổ tròn",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "ao-thun-nam-co-tron",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Áo thun ba lỗ",
+          "icon": "/assets/images/categories/tags-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": null,
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": "ao-thun-nam-ba-lo",
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        }
+      ]
+    }
+  },
+  {
+    "banner": null,
+    "category": {
+      "name": "Áo khoác nam - Sơ mi nam",
+      "icon": "",
+      "description": "",
+      "filter": {
+        "categorySlug": null,
+        "categorySlugList": [
+          "ao-khoac-nam",
+          "ao-so-mi-nam"
+        ],
+        "productBadge": 0,
+        "productSKU": null,
+        "productSearch": null,
+        "productSort": 4,
+        "tagSlug": null,
+        "priceMin": 0,
+        "priceMax": 0
+      },
+      "children": [
+        {
+          "name": "Áo khoác nam",
+          "icon": "/assets/images/categories/category-10.jpg",
+          "description": null,
+          "filter": {
+            "categorySlug": "ao-khoac-nam",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Áo sơ mi nam",
+          "icon": "/assets/images/categories/category-7.jpg",
+          "description": null,
+          "filter": {
+            "categorySlug": "ao-so-mi-nam",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        }
+      ]
+    }
+  },
+  {
+    "banner": null,
+    "category": {
+      "name": "Quần nam - Quần lót nam",
+      "icon": "",
+      "description": "",
+      "filter": {
+        "categorySlug": null,
+        "categorySlugList": [
+          "quan-nam",
+          "quan-jeans-nam",
+          "quan-lot-nam"
+        ],
+        "productBadge": 0,
+        "productSKU": null,
+        "productSearch": null,
+        "productSort": 4,
+        "tagSlug": null,
+        "priceMin": 0,
+        "priceMax": 0
+      },
+      "children": [
+        {
+          "name": "Quần nam",
+          "icon": "/assets/images/categories/category-11.jpg",
+          "description": null,
+          "filter": {
+            "categorySlug": "quan-nam",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Quần jeans nam",
+          "icon": "/assets/images/categories/category-12.jpg",
+          "description": null,
+          "filter": {
+            "categorySlug": "quan-jeans-nam",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        },
+        {
+          "name": "Quần lót nam",
+          "icon": "/assets/images/categories/category-42.jpg",
+          "description": "",
+          "filter": {
+            "categorySlug": "quan-lot-nam",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 0
+          },
+          "children": null
+        }
+      ]
+    }
+  },
+  {
+    "banner": {
+      "action": "category",
+      "name": "Nước hoa",
+      "actionValue": "nuoc-hoa",
+      "image": "https://khohangsiann.com/wp-content/uploads/si-nuoc-hoa-gia-re-1.png",
+      "message": null,
+      "createdDate": "2020-03-22T14:41:23.2397117+07:00"
+    },
+    "category": {
+      "name": "Nước hoa",
+      "icon": "/assets/images/categories/category-44.jpg",
+      "description": "",
+      "filter": {
+        "categorySlug": "nuoc-hoa",
+        "categorySlugList": null,
+        "productBadge": 0,
+        "productSKU": null,
+        "productSearch": null,
+        "productSort": 4,
+        "tagSlug": null,
+        "priceMin": 0,
+        "priceMax": 0
+      },
+      "children": [
+        {
+          "name": "Chai 20ml sỉ 30k",
+          "icon": "/assets/images/categories/price-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "nuoc-hoa",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 0,
+            "priceMax": 30000
+          },
+          "children": null
+        },
+        {
+          "name": "Chai 20ml sỉ 35k",
+          "icon": "/assets/images/categories/price-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "nuoc-hoa",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 31000,
+            "priceMax": 35000
+          },
+          "children": null
+        },
+        {
+          "name": "Chai ống sỉ 49k",
+          "icon": "/assets/images/categories/price-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "nuoc-hoa",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 36000,
+            "priceMax": 49000
+          },
+          "children": null
+        },
+        {
+          "name": "Chai 50ml sỉ 135k",
+          "icon": "/assets/images/categories/price-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "nuoc-hoa",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 135000,
+            "priceMax": 135000
+          },
+          "children": null
+        },
+        {
+          "name": "Full size nhiều giá",
+          "icon": "/assets/images/categories/price-filter.png",
+          "description": "",
+          "filter": {
+            "categorySlug": "nuoc-hoa",
+            "categorySlugList": null,
+            "productBadge": 0,
+            "productSKU": null,
+            "productSearch": null,
+            "productSort": 4,
+            "tagSlug": null,
+            "priceMin": 50000,
+            "priceMax": 400000
+          },
+          "children": null
+        }
+      ]
+    }
+  }
+]

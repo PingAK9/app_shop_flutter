@@ -1,0 +1,87 @@
+name: shop_flutter
+description: A new Flutter application.
+
+version: 1.0.8+11
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_cupertino_localizations: ^1.0.1
+  provider: ^4.0.2
+  connectivity: ^0.4.6+1
+  shared_preferences: ^0.5.6+1
+  http: ^0.12.0+4
+  webview_flutter: ^0.3.19+5
+  flushbar: ^1.9.1
+  intl: ^0.16.0
+  flutter_html: ^0.11.0
+  url_launcher: ^5.3.0
+  loading_more_list: ^1.0.2
+  flutter_cache_manager: ^1.1.3
+  cached_network_image: ^2.0.0-rc
+  transparent_image: ^1.0.0
+  image_gallery_saver: ^1.2.2
+  gesture_zoom_box: ^0.0.2
+
+  firebase_core: ^0.4.0+9
+  firebase_dynamic_links: ^0.5.0+1
+  firebase_analytics: ^5.0.2
+  onesignal_flutter: ^2.3.4
+  fast_qr_reader_view:
+    git:
+      url: git://github.com/facundomedica/fast_qr_reader_view.git
+
+  share_extend: ^1.1.0
+  esys_flutter_share: ^1.0.2
+  flutter_cupertino_date_picker: ^1.0.12
+  permission_handler: ^4.2.0+hotfix.3
+  flutter_image_compress: ^0.6.5+1
+  async: ^2.4.0
+  path: ^1.6.4
+  image_picker: ^0.6.3+1
+  flutter_icons: ^1.0.0+1
+  avatar_glow: ^1.1.0
+  sprintf: ^4.0.2
+
+  # Handle HTML
+  flutter_widget_from_html: ^0.3.2+1
+  html_unescape: ^1.0.1+3
+
+  # Handle version
+  package_info: ^0.4.0+14
+  firebase_remote_config: ^0.3.0+1
+
+  # Handle Icon
+  font_awesome_flutter: ^8.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    # Image
+    - assets/images/
+    - assets/images/ui/
+
+    # Locale
+    #- assets/locale/en/main.json
+    #- assets/locale/vi/main.json
+    #- assets/locale/en/common.json
+    #- assets/locale/vi/common.json
+
+    # Offline
+    - assets/offline/
+
+    # Fonts
+  fonts:
+    - family: AppIcons
+      fonts:
+        - asset: assets/fonts/AppIcons.ttf
